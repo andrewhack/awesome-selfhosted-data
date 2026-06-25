@@ -1,0 +1,11 @@
+name: "stremio-libtorrent-server"
+website_url: "https://github.com/andrewhack/stremio-libtorrent-server"
+source_code_url: "https://github.com/andrewhack/stremio-libtorrent-server"
+description: "Streaming server for Stremio built on libtorrent, bundled with the Stremio web player; optional NVENC/VAAPI transcoding and automatic trusted HTTPS for TVs."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming   # must match an existing tag; I'll confirm before you submit
